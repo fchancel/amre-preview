@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mazoyer;Alex;;;
+FN:Alex Mazoyer
+ORG:AM Robinetterie Eau
+TITLE:Gérant & fondateur
+TEL;TYPE=CELL,VOICE:+33686000226
+EMAIL;TYPE=WORK:a.mazoyer@am-robinetterie-eau.fr
+ADR;TYPE=WORK:;;410 route du Mollard;La Motte-en-Bauges;;73340;France
+URL:https://www.am-robinetterie-eau.fr
+NOTE:Représentation commerciale réseaux d'eau — JAFAR\, FML\, Abritec
+END:VCARD
