@@ -1,0 +1,20 @@
+{
+  "name": "AM Robinetterie Eau",
+  "short_name": "AM Robinetterie",
+  "start_url": "/amre-preview/",
+  "display": "browser",
+  "background_color": "#f4f1ea",
+  "theme_color": "#0b1b33",
+  "icons": [
+    {
+      "src": "/amre-preview/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/amre-preview/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
